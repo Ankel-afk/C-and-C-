@@ -1,0 +1,10 @@
+this is my file
+the file should end
+here after
+the period
+.
+a
+v
+b
+c
+

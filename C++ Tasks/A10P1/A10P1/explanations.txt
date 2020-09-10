@@ -1,0 +1,18 @@
+1) when removing the using namespace std: I get the following errors:
+unknown type name "string" // the compiler does not know what string is,
+use std::string to fix
+
+undeclared identifier "cin" and "cout" // cin and cout do not exist. use
+std::cout and std::cin instead
+
+undeclared identifier "endl" // again, the endl identifier is defined in the
+std namespace, use std::endl instead.
+
+2)Critter.cpp:7:5: error: use of undeclared identifier 'name'
+    name = newname;
+    in the function setName.
+
+    the "name" identifier only exists inside of the Critter class. if the
+    class "namespace" is not defined, the compiler does not understand that it is
+    supposed to use the "name" of an instance of the Critter class. include this function
+    as one of the public methods inside of the Critter class declaration to avoid this problem

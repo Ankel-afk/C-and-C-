@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/osobiehl/Desktop/C++ Tasks/C++ Tasks/A13P2 too/A13P2 too/README.txt">
+   </FileRef>
+   <FileRef
+      location = "group:../A13P2 too/a.out">
+   </FileRef>
+   <FileRef
+      location = "group:../A13P2 too/Complex.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../A13P2 too/Complex.h">
+   </FileRef>
+   <FileRef
+      location = "group:../A13P2 too/int1.txt">
+   </FileRef>
+   <FileRef
+      location = "group:../A13P2 too/int2.txt">
+   </FileRef>
+   <FileRef
+      location = "group:../A13P2 too/results.txt">
+   </FileRef>
+   <FileRef
+      location = "group:../A13P2 too/testcomplex.cpp">
+   </FileRef>
+   <FileRef
+      location = "self:A13P2 too.xcodeproj">
+   </FileRef>
+</Workspace>
